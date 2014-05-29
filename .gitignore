@@ -1,0 +1,8 @@
+*.sass-cache*
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+config.rb
+config.codekit
+web.config
+*.codekit
